@@ -1,0 +1,34 @@
+RHYTHM TEXCHEM SEO 2.0
+
+This package preserves the latest website as the base and adds an SEO-focused layer.
+
+Key updates:
+- Manufacturer/manufacturing claims removed from website copy where found.
+- Supplier/exporter positioning added.
+- SEO title and meta description.
+- Canonical URL.
+- Open Graph and Twitter metadata.
+- Organization structured data.
+- SEO introduction.
+- SEO landing pages for major commercial categories.
+- International market pages for Africa, Turkey, Vietnam, Thailand, Egypt, UAE and Gulf.
+- Image alt text improvements.
+- sitemap.xml.
+- robots.txt.
+- SEO product directory and internal links.
+- SEO keyword map.
+
+IMPORTANT BEFORE LAUNCH:
+1. Replace https://www.rhythmtexchem.com/ with the actual live domain if different.
+2. Verify the exact company email, phone, address and WhatsApp details.
+3. Connect Google Search Console.
+4. Submit /sitemap.xml in Search Console.
+5. Add Google Analytics / Tag Manager if desired.
+6. Verify all forms and email delivery on the live domain.
+7. Add genuine company credentials, certifications and business address only where applicable.
+8. Build genuine industry backlinks and publish useful expert blog content.
+9. Test all pages on mobile and run PageSpeed Insights.
+10. Review every SEO landing page before indexing if the live domain differs from the canonical URL.
+
+Note:
+SEO cannot guarantee first-page ranking. This package is structured to improve crawlability, relevance, internal linking and buyer-focused search targeting.
